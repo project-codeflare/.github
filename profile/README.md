@@ -24,6 +24,10 @@ To get started using the Project Codeflare stack, try this [end-to-end example][
 
 ## Development
 
+### Architecture
+
+We attempt to document all architectural decisions in our [ADR documents][adr]. Start here to understand the architectural details of Project Codeflare.
+
 ### Getting Involved
 
 Join our [Slack community][slack] to get involved or ask questions.
@@ -40,3 +44,4 @@ Unless otherwise noted at a per-component level, this Project Codeflare is licen
 [distributed-workloads]: https://github.com/opendatahub-io/distributed-workloads
 [quickstart]: https://github.com/opendatahub-io/distributed-workloads/blob/main/Quick-Start.md
 [slack]: https://invite.playplay.io/invite?team_id=T04KQQBTDN3
+[adr]: https://github.com/project-codeflare/adr
