@@ -2,15 +2,15 @@
 
 ## About
 
-Project Codeflare provides a simple, user-friendly abstraction for scaling, queuing and resource management of distributed AI/ML and Python workloads. On OpenShift Container Platform.
+Project Codeflare provides a simple, user-friendly abstraction for developing, resource-scaling, queuing, and management of distributed AI/ML and Python workloads on OpenShift Container Platform.
 
 Project Codeflare consists of the following components:
 
-**[CodeFlare SDK][codeflare-sdk] and [CLI][codeflare-cli]** to define and control remote distributed compute jobs and infrastructure from a python-based environment or terminal
+**[CodeFlare SDK][codeflare-sdk] and [CLI][codeflare-cli]** to define, develop, and control remote distributed compute jobs and infrastructure from either a python-based environment or command-line interface
 
-**[Multi-Cluster Application Dispatcher (MCAD)][mcad]** for management of batch jobs
+**[Multi-Cluster Application Dispatcher (MCAD)][mcad]** for queueing, resource quotas, and management of batch jobs
 
-**[Instascale][instascale]** for on-demand scaling of a Kubernetes cluster
+**[Instascale][instascale]** for on-demand resource scaling of an OpenShift cluster
 
 **[Codeflare Operator][codeflare-operator]** for automating deployment and configuration of the Project Codeflare stack
 
@@ -20,9 +20,13 @@ In addition to running standalone, Project Codeflare is deployed as part of and 
 
 ## Quick Start
 
-To get started using the Project Codeflare stack, try this [end-to-end example][quickstart]! 
+To get started using the Project Codeflare stack, try this [end-to-end example][quickstart]!
+
+For more basic walk-throughs and in-depth tutorials, see our [demo notebooks][demos]!
 
 ## Development
+
+See more details in any of the component repos linked above, or get started by taking a look at the [project board][board] for open tasks/issues!
 
 ### Architecture
 
@@ -45,3 +49,5 @@ Unless otherwise noted at a per-component level, this Project Codeflare is licen
 [quickstart]: https://github.com/opendatahub-io/distributed-workloads/blob/main/Quick-Start.md
 [slack]: https://invite.playplay.io/invite?team_id=T04KQQBTDN3
 [adr]: https://github.com/project-codeflare/adr
+[demos]: https://github.com/project-codeflare/codeflare-sdk/tree/main/demo-notebooks/guided-demos
+[board]: https://github.com/orgs/project-codeflare/projects/8
