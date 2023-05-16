@@ -18,7 +18,14 @@ Project Codeflare consists of the following components:
 
 In addition to running standalone, Project Codeflare is deployed as part of and integrated with the [Open Data Hub][distributed-workloads].
 
-## Quick Start
+## Getting Started
+
+### Learning
+
+Watch [this video][youtube-demo] for an introduction to Project Codeflare and what the
+stack can do.
+
+### Quick Start
 
 To get started using the Project Codeflare stack, try this [end-to-end example][quickstart]!
 
@@ -51,3 +58,4 @@ Unless otherwise noted at a per-component level, this Project Codeflare is licen
 [adr]: https://github.com/project-codeflare/adr
 [demos]: https://github.com/project-codeflare/codeflare-sdk/tree/main/demo-notebooks/guided-demos
 [board]: https://github.com/orgs/project-codeflare/projects/8
+[youtube-demo]: https://www.youtube.com/watch?v=OAzFBFL5B0k
