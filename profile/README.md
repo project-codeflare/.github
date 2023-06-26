@@ -23,7 +23,9 @@ In addition to running standalone, Project CodeFlare is deployed as part of and 
 ### Learning
 
 Watch [this video][youtube-demo] for an introduction to Project CodeFlare and what the
-stack can do.
+stack can do. (Nov. 2022)
+
+See [this video][summit-demo] as well for an updated demonstration of the basic stack functionality in-action. (Jun. 2023)
 
 ### Quick Start
 
@@ -59,3 +61,4 @@ Unless otherwise noted at a per-component level, this Project CodeFlare is licen
 [demos]: https://github.com/project-codeflare/codeflare-sdk/tree/main/demo-notebooks/guided-demos
 [board]: https://github.com/orgs/project-codeflare/projects/8
 [youtube-demo]: https://www.youtube.com/watch?v=OAzFBFL5B0k
+[summit-demo]: https://youtu.be/U76iIfd9EmE
