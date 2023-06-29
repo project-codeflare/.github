@@ -1,0 +1,17 @@
+name: Check Do Not Merge
+
+on:
+  pull_request:
+    types:
+      - opened
+      - labeled
+      - unlabeled
+
+jobs:
+  fail-for-do-not-merge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Fail if PR is a draft
+        if: contains(join(github.event.pull_request.labels.*.name, ','), 'do-not-merge')  # check if any label contains do-not-merge
+          echo "This PR is currently labeled do-not-merge."
+          exit 1
