@@ -1,3 +1,9 @@
+---
+name: Other
+about: Provide details of a change you would like to make that doesn't fit the other templates.
+
+---
+
 ## WHY
 Why is this change being made?
 ## WHAT
