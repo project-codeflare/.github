@@ -1,5 +1,6 @@
 # Issue link
 <!-- insert a link to the GitHub issue -->
+<!-- If the issue is closed with this PR enter 'Closes #<issue_number>' -->
 
 # What changes have been made
 <!-- describe a summary of the change, add any additional motivation and context as needed -->
