@@ -16,3 +16,5 @@
    - [ ] Unit tests
    - [ ] Manual tests
    - [ ] Testing is not required for this change
+
+<!-- You can find out information on the review process at this link https://github.com/project-codeflare/codeflare/blob/develop/CONTRIBUTING.md#getting-feedback-on-your-contribution -->
