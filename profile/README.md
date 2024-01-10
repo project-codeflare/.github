@@ -35,7 +35,7 @@ For more basic walk-throughs and in-depth tutorials, see our [demo notebooks][de
 
 ## Development
 
-See more details in any of the component repos linked above, or get started by taking a look at the [project board][board] for open tasks/issues!
+See more details in any of the component repos linked above, and go to their issues page for open tasks/issues!
 
 ### Architecture
 
