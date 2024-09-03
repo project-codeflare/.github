@@ -8,7 +8,7 @@ Project CodeFlare consists of the following components:
 
 **[CodeFlare SDK][codeflare-sdk] and [CLI][codeflare-cli]** to define, develop, and control remote distributed compute jobs and infrastructure from either a python-based environment or command-line interface
 
-**[Multi-Cluster Application Dispatcher (MCAD)][mcad]** for queueing, resource quotas, and management of batch jobs
+**[AppWrapper][appwrapper]** a flexible and workload-agnostic mechanism for enabling Kueue to manage a group of Kubernetes resources as a single logical unit
 
 **[Instascale][instascale]** for on-demand resource scaling of an OpenShift cluster
 
@@ -51,7 +51,7 @@ Unless otherwise noted at a per-component level, this Project CodeFlare is licen
 
 [codeflare-sdk]: https://github.com/project-codeflare/codeflare-sdk
 [codeflare-cli]: https://github.com/project-codeflare/codeflare-cli
-[mcad]: https://github.com/project-codeflare/multi-cluster-app-dispatcher
+[appwrapper]: https://github.com/project-codeflare/appwrapper
 [instascale]: https://github.com/project-codeflare/instascale
 [codeflare-operator]: https://github.com/project-codeflare/codeflare-operator
 [distributed-workloads]: https://github.com/opendatahub-io/distributed-workloads
