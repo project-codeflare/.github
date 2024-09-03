@@ -8,7 +8,7 @@ Project CodeFlare consists of the following components:
 
 **[CodeFlare SDK][codeflare-sdk] and [CLI][codeflare-cli]** to define, develop, and control remote distributed compute jobs and infrastructure from either a python-based environment or command-line interface
 
-**[AppWrapper][appwrapper]** a flexible and workload-agnostic mechanism for enabling Kueue to manage a group of Kubernetes resources as a single logical unit
+**[AppWrapper][appwrapper]** a flexible and workload-agnostic mechanism to enable Kueue to manage a group of Kubernetes resources as a single logical unit and to provide an additional level of automatic fault detection and recovery
 
 **[Instascale][instascale]** for on-demand resource scaling of an OpenShift cluster
 
