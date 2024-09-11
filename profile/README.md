@@ -29,7 +29,7 @@ See [this video][summit-demo] as well for an updated demonstration of the basic 
 
 ### Quick Start
 
-To get started using the Project CodeFlare stack, try this [end-to-end example][quickstart]!
+To get started using the Project CodeFlare stack, try this [end-to-end example][(https://github.com/opendatahub-io/distributed-workloads/tree/main/examples)]!
 
 For more basic walk-throughs and in-depth tutorials, see our [demo notebooks][demos]!
 
