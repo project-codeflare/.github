@@ -6,7 +6,7 @@ Project CodeFlare provides a simple, user-friendly abstraction for developing, r
 
 Project CodeFlare consists of the following components:
 
-**[CodeFlare SDK][codeflare-sdk] to define, develop, and control remote distributed compute jobs and infrastructure from either a python-based environment or command-line interface
+**[CodeFlare SDK][codeflare-sdk]** to define, develop, and control remote distributed compute jobs and infrastructure from either a python-based environment or command-line interface
 
 **[AppWrapper][appwrapper]** a flexible and workload-agnostic mechanism to enable Kueue to manage a group of Kubernetes resources as a single logical unit and to provide an additional level of automatic fault detection and recovery
 
