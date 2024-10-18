@@ -2,15 +2,13 @@
 
 ## About
 
-Project CodeFlare provides a simple, user-friendly abstraction for developing, resource-scaling, queuing, and management of distributed AI/ML and Python workloads on OpenShift Container Platform.
+Project CodeFlare provides a simple, user-friendly abstraction for developing, resource-scaling, queuing, and management of distributed AI/ML and Python workloads, whilst maximising the utilization of accelerators and compute resources, on OpenShift Container Platform.
 
 Project CodeFlare consists of the following components:
 
-**[CodeFlare SDK][codeflare-sdk] and [CLI][codeflare-cli]** to define, develop, and control remote distributed compute jobs and infrastructure from either a python-based environment or command-line interface
+**[CodeFlare SDK][codeflare-sdk] to define, develop, and control remote distributed compute jobs and infrastructure from either a python-based environment or command-line interface
 
 **[AppWrapper][appwrapper]** a flexible and workload-agnostic mechanism to enable Kueue to manage a group of Kubernetes resources as a single logical unit and to provide an additional level of automatic fault detection and recovery
-
-**[Instascale][instascale]** for on-demand resource scaling of an OpenShift cluster
 
 **[CodeFlare Operator][codeflare-operator]** for automating deployment and configuration of the Project CodeFlare stack
 
